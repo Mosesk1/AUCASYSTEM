@@ -1,2 +1,2 @@
 # AUCASYSTEM
-AUCASYSTEM using Dotnet
+AUCASYSTEM using .NET
